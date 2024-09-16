@@ -1,0 +1,6 @@
+name, nsyll, npause, dur(s), phonationtime(s), speechrate(nsyll/dur), articulation_rate(nsyll/phonationtime), ASD(speakingtime/nsyll), nrFP, tFP(s)
+fn000049_first3sent, 24, 3, 10.00, 7.84, 2.40, 3.06, 0.327, 8, 1.386
+fn000051_first3sent, 41, 10, 53.00, 13.23, 0.77, 3.10, 0.323, 6, 1.000
+fn000060_first3sent, 30, 4, 11.00, 8.00, 2.73, 3.75, 0.267, 0, 0
+fn000062_first3sent, 34, 3, 15.00, 12.14, 2.27, 2.80, 0.357, 9, 2.128
+fn000064_first3sent, 34, 1, 10.00, 9.12, 3.40, 3.73, 0.268, 8, 1.360
